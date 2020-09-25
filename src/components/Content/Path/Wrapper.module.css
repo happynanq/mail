@@ -1,0 +1,12 @@
+.wrapper{
+
+}
+.action{
+  /* height: 90vh; */
+}
+.currentContent{
+  overflow-y: scroll;
+}
+.wrapperAction{
+  border-bottom: 1px solid gray ;
+}
